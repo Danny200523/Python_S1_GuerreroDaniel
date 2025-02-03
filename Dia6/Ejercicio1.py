@@ -90,7 +90,7 @@ while bo==True:
             apellidos.append([ap1est,ap2est]) 
         case "2":
             for i in range(len(nombres)):
-                print("Estudiante#",i+1,": ",nombres[n],apellidos[n1])
+                print("Estudiante#",i+1,": "," ".join(nombres[n])," ".join(apellidos[n1]))
                 n+=1
                 n1+=1
             n=0
