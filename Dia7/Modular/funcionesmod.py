@@ -124,3 +124,11 @@ def menu():
     print("3.Editar estudiante")
     print("4.Eliminar estudiante")
     print("5.Salir del programa")
+    print("\nBienvenido al programa de lista de estudiantes\n");b=True
+    while b==True:
+        opcionUsuario=int(input(":"))
+        if opcionUsuario==1:opc1()
+        elif opcionUsuario==2:opc2()
+        elif opcionUsuario==3:opc3()
+        elif opcionUsuario==4:opc4()
+        elif opcionUsuario==5:b=False
