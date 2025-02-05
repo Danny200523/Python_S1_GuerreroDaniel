@@ -1,2 +1,1 @@
-from funcionesmod import *
-menu()
+from funcionesmod import *;menu()
