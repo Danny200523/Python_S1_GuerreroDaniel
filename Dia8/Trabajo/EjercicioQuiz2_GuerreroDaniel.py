@@ -12,3 +12,15 @@ def guardarJSON(dic):
         json.dump(dic,outFile)
 
 inmuebles={}
+b=True
+while b:
+    c=0
+    inmuebles=abrirJSON()
+    x=int(input("(1). USUARIO O (2). INMOBILIARIA"))
+    match x:
+        case 1:
+            for i in range(len(inmuebles)):
+                print("Inmueble#",i+1,": ",inmuebles[c]["año"])
+                c+=1
+        case 2:
+            print("")
