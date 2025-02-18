@@ -1,123 +1,37 @@
+# Clases Python y Trabajos
 
-#  Día 1
+En este repositorio se encuentran los diferentes ejercicios realizados dentro y fuera de clase con la temática de Python, junto con los ejercicios y explicaciones enviadas por el profesor. El objetivo del presente es tener un compilado de lo visto sobre Python y tener a la mano el material de estudio.
 
-Este proyecto contiene los primeros ejercicios de programación en Python, donde se incluyen scripts básicos para familiarizarse con la sintaxis y lógica del lenguaje.
+## Tabla de Contenidos
 
+| Dia | Contenido |
+|-----|-----------|
+|Día 1| Explicación básicos Python, ejercicios iniciales|
+|Día 2| Ejercicios nivel intermedio Python |
+|Día 3|Explicación sobre listas y diccionarios, ejemplos|
+|Día 4| Ejercicio sobre listas y diccionarios |
+|Día 5|Ejercicio inmuebles con CRUD|
+|Día 6|Ejercicio inmuebles corrección y propuesta|
+|Día 7|Ejercicios sobre modularidad |
 
-### Archivos incluidos
+## Instalación
 
--   `main.py`: Archivo principal del proyecto.
--   `xd.py`: Archivo auxiliar.
--   `main.txt`: Archivo de texto con información adicional.
+Para el correcto funcionamiento del presente se requiere la instalación de Python en el dispositivo a utilizar o, en caso de utilizar Visual Studio Code, instalar la extensión de Python.
 
-### Explicación
+## Explicación
 
-El archivo `main.py` contiene código Python que ejecuta operaciones básicas, mientras que `xd.py` puede incluir funciones complementarias. El archivo `main.txt` puede ser un registro de ejecución o información de apoyo.
+**[Día 1]** Ejercicios iniciales Python: Se presentan ejercicios introductorios donde el usuario debe ingresar valores numéricos o palabras para realizar diferentes operaciones.
 
-### Uso
+**[Día 2]** Ejercicios nivel intermedio Python: Incluye ejercicios donde se deben ingresar valores enteros y frases en el caso del ejercicio de frases paralelas.
 
-Para ejecutar el archivo principal, usa el siguiente comando en la terminal:
+**[Día 3]** Explicación sobre listas y diccionarios, ejemplos: Contiene explicaciones teóricas junto con ejercicios prácticos sobre listas y diccionarios en Python.
 
-```bash
-python3 main.py
+**[Día 4]** Ejercicio sobre listas y diccionarios: Se trabaja con listas de nombres y apellidos de estudiantes, con funcionalidades para agregar, editar o eliminar estudiantes.
 
-```
+**[Día 5]** Ejercicio de inmuebles con CRUD: Un programa que permite la gestión de inmuebles mediante un menú interactivo.
 
-Si deseas ejecutar el archivo `xd.py`, usa:
+**[Día 6]** Ejercicio propuesta: Creación de una base de datos en formato JSON con un menú para navegar por los datos según lo que desee realizar el usuario.
 
-```bash
-python3 xd.py
-
-```
-
-> [!NOTE] Asegúrate de tener Python correctamente instalado antes de ejecutar los scripts.
-#  Día 2
-
-En este día se desarrollaron ejercicios de programación en Python, enfocados en la práctica de estructuras de control y funciones.
-
-### Archivos incluidos
-
--   `Ejercicio1.py`
--   `Ejercicio2.py`
--   `Ejercicio3.py`
--   `Ejercicio4.py`
--   `Ejercicio5.py`
--   `Ejercicio6.py`
--   `Ejercicio7.py`
-
-Estos archivos contienen ejercicios de estructuras de control y lógica de programación.
-
-### Explicación
-
-Cada archivo contiene un ejercicio distinto de programación en Python. Se abordan estructuras condicionales, ciclos y funciones para resolver problemas específicos.
-
-### Uso
-
-Para ejecutar cualquiera de los ejercicios, usa el siguiente comando en la terminal:
-
-```bash
-python3 nombre_del_archivo.py
-
-```
-
-Por ejemplo, para ejecutar el primer ejercicio:
-
-```bash
-python3 Ejercicio1.py
-
-```
-
-Hecho por [Daniel Guerrero](https://github.com/Danny200523)
-
-> [!NOTE] Asegúrate de tener Python correctamente instalado antes de ejecutar los scripts.
-
-#  Día 3
-
-En este día se trabajó con estructuras de datos en Python, incluyendo listas, tuplas y diccionarios, aplicadas a problemas prácticos.
-
-
-### Instalación
-
-Para ejecutar los archivos de este proyecto, asegúrate de tener instalado Python en tu sistema. Si aún no lo tienes, puedes instalarlo con el siguiente comando en sistemas basados en Debian:
-
-```
-sudo apt install python3
-```
-
-### Archivos incluidos
-
--   `listas.py`
-    
--   `tuplas.py`
-    
--   `diccionarios.py`
-    
-
-Estos archivos contienen ejercicios prácticos sobre estructuras de datos en Python.
-
-### Explicación
-
-Cada archivo explora una estructura de datos distinta:
-
--   `listas.py`: Ejercicios con listas y sus operaciones básicas.
-    
--   `tuplas.py`: Uso de tuplas y sus aplicaciones.
-    
--   `diccionarios.py`: Manipulación de diccionarios en Python.
-    
-
-### Uso
-
-Para ejecutar cualquiera de los archivos, usa el siguiente comando en la terminal:
-
-```
-python3 nombre_del_archivo.py
-```
-
-Por ejemplo, para ejecutar el archivo de listas:
-
-```
-python3 listas.py
-```
+**[Día 7]** Ejercicios sobre modularidad : Se incluyen ejercicios donde se trabaja la modularidad en Python mediante el uso de módulos y funciones. 
 
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
