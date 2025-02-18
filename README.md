@@ -13,7 +13,7 @@ En este repositorio se encuentran los diferentes ejercicios realizados dentro y 
 |Día 5|Ejercicio inmuebles con CRUD|
 |Día 6|Ejercicio inmuebles corrección y propuesta|
 |Día 7|Ejercicios sobre modularidad |
-
+|D{ia 8| Ejercicios sobre diccionarios|
 ## Instalación
 
 Para el correcto funcionamiento del presente se requiere la instalación de Python en el dispositivo a utilizar o, en caso de utilizar Visual Studio Code, instalar la extensión de Python.
@@ -33,5 +33,7 @@ Para el correcto funcionamiento del presente se requiere la instalación de Pyth
 **[Día 6]** Ejercicio propuesta: Creación de una base de datos en formato JSON con un menú para navegar por los datos según lo que desee realizar el usuario.
 
 **[Día 7]** Ejercicios sobre modularidad : Se incluyen ejercicios donde se trabaja la modularidad en Python mediante el uso de módulos y funciones. 
+
+**[D{ia 8]** Ejercicios sobre Diccionarios : Se incluyen ejercicios donde se trabaja el uso de diccionarios y persistencia
 
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
